@@ -1,0 +1,1 @@
+I downloaded the html and css and for this project and had to write all of the javascript. This was my first time communicating with an api.

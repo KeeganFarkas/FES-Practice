@@ -1,0 +1,1 @@
+Some simple begginer challenges to help make the basics of JS stick

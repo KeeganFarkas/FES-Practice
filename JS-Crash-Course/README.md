@@ -1,0 +1,1 @@
+In this crash course I coded along and learned about: DataTypes and Variables, Conditionals, Loops, Functions, Arrays, Objects, and DOM

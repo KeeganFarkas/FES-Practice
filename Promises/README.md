@@ -1,0 +1,1 @@
+Some practice with promises while following along with a video

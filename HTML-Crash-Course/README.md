@@ -1,0 +1,1 @@
+I coded along with a video to learn the basics of html
